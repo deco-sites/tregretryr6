@@ -1,5 +1,7 @@
 {
   "imports": {
+    "deco-sites/tregretryr6/": "./",
+
     "deco-sites/deco-bf/": "./",
 
     "$store/": "./",
